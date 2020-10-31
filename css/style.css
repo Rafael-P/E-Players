@@ -166,6 +166,28 @@ img{
 .about-position img{
     max-width: 31.87em;
 }
+.partida{
+    color: white;
+    display: flex;
+    margin-left: 3.12em;
+    padding-top: 0.5em;
+    padding-right: 1.562em;
+}
+.partida img{
+    max-width: 3.375em;
+}
+.partida p{
+    margin: 0.875 1.25em;
+}
+.time1, .time2{
+    color: white;
+    display: flex;
+}
+.time1 p, .time2 p{
+    padding: 0.5em 0.625em;
+    font-size: 1.25em;
+}
+
 
 @media screen and (max-width: 74.93em){
 
